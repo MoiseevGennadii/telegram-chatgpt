@@ -1,1 +1,1 @@
-# telegram-chatgpt
+# telegram+chatgpt
